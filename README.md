@@ -11,4 +11,4 @@ A real-time computer vision system built to detect, categorize, track, and count
 ## 🛠️ System Stack
 * **Language:** Python 3.x
 * **Core Libraries:** OpenCV (`cv2`), PyTorch (`torch`), EasyOCR, Pandas
-*
+
